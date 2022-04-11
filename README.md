@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <p>I am a Computer Technician by training and converted into a fullstack developer by profession.
 In training with the D-CLIC project (train yourself in digital technology), my skills in developing digital solutions for the web are quite considerable.</p>
 
-<div class="header">
+<div align="center">
             <div>
                 <p>lien vers les réseau sociaux</p>
                 <p><a href="https://github.com/Roch-com">Lien vers mon GITHUB</a></p>
