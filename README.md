@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
             <div>
-                <p>lien vers les réseau sociaux</p>
-                <p><a href="https://github.com/Roch-com">Lien vers mon GITHUB</a></p>
-                <p><a href="https://stackoverflow.com/users/17997963/rochambeau-witta">Lien vers STACKOVERFLOW</a></p>
-                <p><a href="https://openclassrooms.com/fr/members/1z469lvngkq7">Lien vers openclassrooms</a></p>
+                <p>lien vers</p>
+                <p><a href="https://github.com/Roch-com">GITHUB</a></p>
+                <p><a href="https://stackoverflow.com/users/17997963/rochambeau-witta">STACKOVERFLOW</a></p>
+                <p><a href="https://openclassrooms.com/fr/members/1z469lvngkq7">Openclassrooms</a></p>
             </div>
             <div class="me"><p>Développeur full stack en freelance</p>
                 <p><a href="wittarochambeau@gmail.com">wittarochambeau@gmail.com</a></p>
