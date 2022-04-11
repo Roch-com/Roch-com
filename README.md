@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://avatars.githubusercontent.com/u/84338445?s=400&u=95a3c36ff58312a03bd056dc4f6023e9fb34e8bf&v=4" width="200" />
 </div>
 <div align="center" id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/rochambeau-witta-474a84216/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
