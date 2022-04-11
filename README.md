@@ -22,9 +22,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
-<p>I am a Computer Technician by training and converted into a fullstack developer by profession.
-In training with the D-CLIC project (train yourself in digital technology), my skills in developing digital solutions for the web are quite considerable.</p>
-
+<div align="center">
+  <p>I am a Computer Technician by training and converted into a fullstack developer by profession.
+  In training with the D-CLIC project (train yourself in digital technology), my skills in developing digital solutions for the     web   are quite considerable.</p>
+</div>
 <div align="center">
             <div>
                 <p>lien vers les réseau sociaux</p>
