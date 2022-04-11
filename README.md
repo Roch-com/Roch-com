@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
 I am a Computer Technician by training and converted into a fullstack developer by profession.
 In training with the D-CLIC project (train yourself in digital technology), my skills in developing digital solutions for the web are quite considerable.
- <div>
+<div>
                 <p>lien vers les réseau sociaux</p>
                 <p><a href="https://github.com/Roch-com">Lien vers mon GITHUB</a></p>
                 <p><a href="https://stackoverflow.com/users/17997963/rochambeau-witta">Lien vers STACKOVERFLOW</a></p>
@@ -42,8 +42,8 @@ In training with the D-CLIC project (train yourself in digital technology), my s
                  <p>Formation en Maintenance Informatique et Réseau/Dévelloppement Web et Web mobile</p>
                  <p>Je suis technicien informatique de formation mais je me suis spécialisé dans le développement de solution numérique pour le web.<br>
                     Ma passion pour le codage m'a alors ouvert des portes dont fait partie le programme D-CLIC (formez vous au numérique)</p>
-            </div>
-            <div class="expérience">
+</div>
+  <div class="expérience">
                 <h2>Mon expérience</h2>
 
                 <ul>
@@ -51,7 +51,7 @@ In training with the D-CLIC project (train yourself in digital technology), my s
                     <li><strong>De 2018 à 2019</strong> : Maintenance Informatique et réseau.</li>
                     <li><strong>De 2019 à aujourd'hui</strong> : Création de la start-Up ROCH Technologie qui est spécialisé dans le développement de solution mobile et web/Maintenance Informatique et Réseau.</li>
                 </ul>
-                <div>
+<div>
                     <h3>Autre expérience professionnelle</h3>
                     <ul>
                         <li>Technicien Informatique chez Platinum-Nova <br>
@@ -60,8 +60,8 @@ In training with the D-CLIC project (train yourself in digital technology), my s
                             ( juillet 2021 à nos jours)</li>
         
                     </ul>
-            </div>
-            <div class="Compétence">
+   </div>
+  <div class="Compétence">
                 <h2>Mes compétences</h2>
 
                 <ul>
@@ -72,5 +72,5 @@ In training with the D-CLIC project (train yourself in digital technology), my s
                     <li>JavaScript</li>
                     <li>Angular</li>
                 </ul>
-            </div>
-        </div>
+  </div>
+ </div>
