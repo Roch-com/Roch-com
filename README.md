@@ -39,10 +39,4 @@ In training with the D-CLIC project (train yourself in digital technology), my s
 
 </div>
 
-<style>
-    img {
-    height: 150px;
-    border-radius: 20px;
-}
-</style>
 
