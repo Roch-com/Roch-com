@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 </div>
 I am a Computer Technician by training and converted into a fullstack developer by profession.
 In training with the D-CLIC project (train yourself in digital technology), my skills in developing digital solutions for the web are quite considerable.
-
-     <div>
+ <div>
                 <p>lien vers les réseau sociaux</p>
                 <p><a href="https://github.com/Roch-com">Lien vers mon GITHUB</a></p>
                 <p><a href="https://stackoverflow.com/users/17997963/rochambeau-witta">Lien vers STACKOVERFLOW</a></p>
@@ -37,7 +36,7 @@ In training with the D-CLIC project (train yourself in digital technology), my s
             <div><p><a href="photojpg"><img src="cv.jpg" alt="Photo d'identité" /></a></p></div>
         </div>
 
-        <div class="container">
+<div class="container">
             <div class="formation">
                  <h2>Ma formation</h2>
                  <p>Formation en Maintenance Informatique et Réseau/Dévelloppement Web et Web mobile</p>
