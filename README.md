@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://avatars.githubusercontent.com/u/84338445?s=400&u=95a3c36ff58312a03bd056dc4f6023e9fb34e8bf&v=4" width="200" />
 </div>
+<div align="center"><p>Développeur full stack en freelance</p>
+  <p><a href="mailto:wittarochambeau@gmail.com">Email</a></p>
+</div>
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/rochambeau-witta-474a84216/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://www.youtube.com/channel/UCm4wtB-0oxRIINgRiBpsw3A"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
@@ -34,9 +37,7 @@ Here are some ideas to get you started:
         <p><a href="https://openclassrooms.com/fr/members/1z469lvngkq7">Openclassrooms</a></p>
      </div>
   <hr>
-     <div class="me"><p>Développeur full stack en freelance</p>
-        <p><a href="mailto:wittarochambeau@gmail.com">Email</a></p>
-    </div>
+     
 </div>
 
 
