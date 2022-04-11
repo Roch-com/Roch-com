@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img ![image](https://user-images.githubusercontent.com/84338445/162813161-58a233fb-2566-4cdf-9393-ce91067ab863.png) width="100"/>
 </div>
 <div align="center" id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -35,7 +35,7 @@ In training with the D-CLIC project (train yourself in digital technology), my s
             <div class="me"><p>Développeur full stack en freelance</p>
                 <p><a href="wittarochambeau@gmail.com">wittarochambeau@gmail.com</a></p>
             </div>
-            <div><p><a href="photojpg"><img src="cv.jpg" alt="Photo d'identité" /></a></p></div>![cv](https://user-images.githubusercontent.com/84338445/162812809-4647a36d-447f-457a-bbae-6ae8aa7a5377.jpg)
+            <div><p><a href="photojpg"><img src="cv.jpg" alt="Photo d'identité" /></a></p></div>
 
 </div>
 
