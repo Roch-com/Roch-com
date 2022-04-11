@@ -27,15 +27,16 @@ Here are some ideas to get you started:
   In training with the D-CLIC project (train yourself in digital technology), my skills in developing digital solutions for the     web   are quite considerable.</p>
 </div>
 <div align="center">
-            <div>
-                <p>lien vers</p>
-                <p><a href="https://github.com/Roch-com">GITHUB</a></p>
-                <p><a href="https://stackoverflow.com/users/17997963/rochambeau-witta">STACKOVERFLOW</a></p>
-                <p><a href="https://openclassrooms.com/fr/members/1z469lvngkq7">Openclassrooms</a></p>
-            </div>
-            <div class="me"><p>Développeur full stack en freelance</p>
-                <p><a href="mailto:wittarochambeau@gmail.com">Email</a></p>
-            </div>
+    <div>
+        <p>lien vers</p>
+        <p><a href="https://github.com/Roch-com">GITHUB</a></p>
+        <p><a href="https://stackoverflow.com/users/17997963/rochambeau-witta">STACKOVERFLOW</a></p>
+        <p><a href="https://openclassrooms.com/fr/members/1z469lvngkq7">Openclassrooms</a></p>
+     </div>
+  <hr>
+     <div class="me"><p>Développeur full stack en freelance</p>
+        <p><a href="mailto:wittarochambeau@gmail.com">Email</a></p>
+    </div>
 </div>
 
 
