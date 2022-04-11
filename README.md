@@ -62,15 +62,15 @@ In training with the D-CLIC project (train yourself in digital technology), my s
                     </ul>
    </div>
   <div class="Compétence">
-                <h2>Mes compétences</h2>
+    <h2>Mes compétences</h2>
 
-                <ul>
-                    <li>HTML5 et CSS3</li>
-                    <li>PHP (<a href="https://www.sololearn.com/profile/24802296">certificat Sololearn</a>)</li>
-                    <li>SQL</li>
-                    <li>Web design et Graphisme</li>
-                    <li>JavaScript</li>
-                    <li>Angular</li>
-                </ul>
+    <ul>
+        <li>HTML5 et CSS3</li>
+        <li>PHP (<a href="https://www.sololearn.com/profile/24802296">certificat Sololearn</a>)</li>
+        <li>SQL</li>
+        <li>Web design et Graphisme</li>
+        <li>JavaScript</li>
+        <li>Angular</li>
+   </ul>
   </div>
  </div>
