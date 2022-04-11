@@ -51,16 +51,16 @@ In training with the D-CLIC project (train yourself in digital technology), my s
                     <li><strong>De 2018 à 2019</strong> : Maintenance Informatique et réseau.</li>
                     <li><strong>De 2019 à aujourd'hui</strong> : Création de la start-Up ROCH Technologie qui est spécialisé dans le développement de solution mobile et web/Maintenance Informatique et Réseau.</li>
                 </ul>
-<div>
-                    <h3>Autre expérience professionnelle</h3>
-                    <ul>
-                        <li>Technicien Informatique chez Platinum-Nova <br>
+    
+      <h3>Autre expérience professionnelle</h3>
+      <ul>
+        <li>Technicien Informatique chez Platinum-Nova <br>
                             (Octobre 2020 à Mars 2021)</li>
-                        <li>Actuelement en freelance chez ROCH technologie <br>
+        <li>Actuelement en freelance chez ROCH technologie <br>
                             ( juillet 2021 à nos jours)</li>
         
-                    </ul>
-   </div>
+      </ul>
+  </div>
   <div class="Compétence">
     <h2>Mes compétences</h2>
 
@@ -73,4 +73,3 @@ In training with the D-CLIC project (train yourself in digital technology), my s
         <li>Angular</li>
    </ul>
   </div>
- </div>
