@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
+<div id="header" align="center" font-weight="bold">
   <img src="https://avatars.githubusercontent.com/u/84338445?s=400&u=95a3c36ff58312a03bd056dc4f6023e9fb34e8bf&v=4" width="200" />
 </div>
 <div align="center"><p>Développeur full stack en freelance</p>
