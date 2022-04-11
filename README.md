@@ -34,7 +34,7 @@ Here are some ideas to get you started:
                 <p><a href="https://openclassrooms.com/fr/members/1z469lvngkq7">Openclassrooms</a></p>
             </div>
             <div class="me"><p>Développeur full stack en freelance</p>
-                <p><a href="mailto:wittarochambeau@gmail.com">wittarochambeau@gmail.com</a></p>
+                <p><a href="mailto:wittarochambeau@gmail.com">Email</a></p>
             </div>
 </div>
 
