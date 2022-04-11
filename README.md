@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/84338445?s=400&u=95a3c36ff58312a03bd056dc4f6023e9fb34e8bf&v=4" width="200" border-radius="20px" />
+  <img src="https://avatars.githubusercontent.com/u/84338445?s=400&u=95a3c36ff58312a03bd056dc4f6023e9fb34e8bf&v=4" width="200" />
 </div>
 <div align="center" id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -38,4 +38,11 @@ In training with the D-CLIC project (train yourself in digital technology), my s
             <div><p><a href="photojpg"><img src="cv.jpg" alt="Photo d'identité" /></a></p></div>
 
 </div>
+
+<style>
+    img {
+    height: 150px;
+    border-radius: 20px;
+}
+</style>
 
