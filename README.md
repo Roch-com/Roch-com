@@ -35,5 +35,7 @@ In training with the D-CLIC project (train yourself in digital technology), my s
             <div class="me"><p>Développeur full stack en freelance</p>
                 <p><a href="wittarochambeau@gmail.com">wittarochambeau@gmail.com</a></p>
             </div>
-            <div><p><a href="photojpg"><img src="cv.jpg" alt="Photo d'identité" /></a></p></div>
+            <div><p><a href="photojpg"><img src="cv.jpg" alt="Photo d'identité" /></a></p></div>![cv](https://user-images.githubusercontent.com/84338445/162812809-4647a36d-447f-457a-bbae-6ae8aa7a5377.jpg)
+
 </div>
+
