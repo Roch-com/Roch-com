@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 I am a Computer Technician by training and converted into a fullstack developer by profession.
 In training with the D-CLIC project (train yourself in digital technology), my skills in developing digital solutions for the web are quite considerable.
