@@ -18,8 +18,7 @@ Here are some ideas to get you started:
   <img src="https://avatars.githubusercontent.com/u/84338445?s=400&u=95a3c36ff58312a03bd056dc4f6023e9fb34e8bf&v=4" width="200" />
 </div>
 <div align="center"><p>Freelance full stack developer</p>
-  <p><a href="mailto:wittarochambeau@gmail.com"><img src="https://user-images.githubusercontent.com/84338445/162993009-c8815680-f06f-4ee6-8bd7-28a5f30037e6.png" width="50"></a></p>
-  <p><a href="mailto:wittarochambeau@gmail.com"><img src="></a></p>
+  <a href="mailto:wittarochambeau@gmail.com"><img src="https://user-images.githubusercontent.com/84338445/162993009-c8815680-f06f-4ee6-8bd7-28a5f30037e6.png" width="50"></a>
 </div>
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/rochambeau-witta-474a84216/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
