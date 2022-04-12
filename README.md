@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
     <div>
-        <p>lien vers</p>
+        <p>link for my</p>
         <p><a href="https://github.com/Roch-com">GITHUB</a></p>
         <p><a href="https://stackoverflow.com/users/17997963/rochambeau-witta">STACKOVERFLOW</a></p>
         <p><a href="https://openclassrooms.com/fr/members/1z469lvngkq7">Openclassrooms</a></p>
