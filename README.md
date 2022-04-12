@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://avatars.githubusercontent.com/u/84338445?s=400&u=95a3c36ff58312a03bd056dc4f6023e9fb34e8bf&v=4" width="200" />
 </div>
 <div align="center"><p>Freelance full stack developer</p>
-  <p><a href="mailto:wittarochambeau@gmail.com"><img src="https://user-images.githubusercontent.com/84338445/162993009-c8815680-f06f-4ee6-8bd7-28a5f30037e6.png"></a></p>
+  <p><a href="mailto:wittarochambeau@gmail.com"><img src="https://user-images.githubusercontent.com/84338445/162993009-c8815680-f06f-4ee6-8bd7-28a5f30037e6.png" width="50"></a></p>
   <p><a href="mailto:wittarochambeau@gmail.com"><img src="></a></p>
 </div>
 <div align="center" id="badges">
