@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://avatars.githubusercontent.com/u/84338445?s=400&u=95a3c36ff58312a03bd056dc4f6023e9fb34e8bf&v=4" width="200" />
 </div>
 <div align="center"><p>Freelance full stack developer</p>
-  <p><a href="mailto:wittarochambeau@gmail.com">Email</a></p>
+  <p><a href="mailto:wittarochambeau@gmail.com"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogos-marques.com%2Fwp-content%2Fuploads%2F2021%2F03%2FGmail-Logo.png&imgrefurl=https%3A%2F%2Flogos-marques.com%2Fgmail-logo%2F&tbnid=bey8cP5c78jBCM&vet=12ahUKEwjBprKM5Y73AhVI4BoKHYtrCAQQMygAegUIARDfAQ..i&docid=BfPC3Vio65h1HM&w=4000&h=2262&q=logo%20gmail&ved=2ahUKEwjBprKM5Y73AhVI4BoKHYtrCAQQMygAegUIARDfAQ></a></p>
 </div>
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/rochambeau-witta-474a84216/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
